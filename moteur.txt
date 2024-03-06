@@ -1,4 +1,4 @@
-pièce1
-pièce2
-pièce3
-pièce4
+pièce_electrique1
+pièce_electrique2
+pièce_electrique3
+pièce_electrique4
